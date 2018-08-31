@@ -1,0 +1,15 @@
+T	E	g
+5	1	control
+5	1	control
+5	1	control
+5	1	control
+33	0	melarsoprol
+33	0	melarsoprol
+33	0	melarsoprol
+33	0	melarsoprol
+33	0	melarsoprol
+10	1	compound25
+10	1	compound25
+10	1	compound25
+10	1	compound25
+10	1	compound25
