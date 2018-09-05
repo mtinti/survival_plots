@@ -1,8 +1,9 @@
 T	E	g
-5	1	control
-5	1	control
-5	1	control
-5	1	control
+4	1	control
+4	1	control
+4	1	control
+4	1	control
+4	1	control
 33	0	melarsoprol
 33	0	melarsoprol
 33	0	melarsoprol
